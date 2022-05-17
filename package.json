@@ -1,0 +1,25 @@
+{
+  "name": "final-task",
+  "version": "1.0.0",
+  "description": "final task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MafeleW/WEB_AUT_MADARA_NAGLE.git"
+  },
+  "keywords": [
+    "final task"
+  ],
+  "author": "Madara Nagle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MafeleW/WEB_AUT_MADARA_NAGLE/issues"
+  },
+  "homepage": "https://github.com/MafeleW/WEB_AUT_MADARA_NAGLE#readme",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}
